@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSWKHHDM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Deserializer_V10\Design Rule Check - Deserializer_V10.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
