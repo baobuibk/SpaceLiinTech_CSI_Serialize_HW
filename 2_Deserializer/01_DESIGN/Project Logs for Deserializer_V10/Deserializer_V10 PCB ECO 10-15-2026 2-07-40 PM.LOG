@@ -1,0 +1,8 @@
+Added Component: Designator=H1(HEX-2.2mm)
+Added Component: Designator=H2(HEX-2.2mm)
+Added Component: Designator=H3(HEX-2.2mm)
+Added Component: Designator=H4(HEX-2.2mm)
+Added Member To Class: ClassName=Deserializer Member=Component H1 M2
+Added Member To Class: ClassName=Deserializer Member=Component H2 M2
+Added Member To Class: ClassName=Deserializer Member=Component H3 M2
+Added Member To Class: ClassName=Deserializer Member=Component H4 M2
