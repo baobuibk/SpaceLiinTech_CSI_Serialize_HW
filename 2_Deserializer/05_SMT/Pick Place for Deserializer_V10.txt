@@ -1,0 +1,82 @@
+Altium Designer Pick and Place Locations
+D:\1_AltiumProject\30_CSI_Serialize\SpaceLiinTech_CSI_Serialize_HW\2_Deserializer\01_DESIGN\Project Outputs for Deserializer_V10\Pick Place for Deserializer_V10.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/11/26
+Time:       08:35
+Revision:   e3949f1b20f77d5be7494fe298dd37c4cffb031a
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                                               
+H3         M2               TopLayer HEX-2.2mm                       1531.496      118.110       0        ""                                                                                                        
+H2         M2               TopLayer HEX-2.2mm                       409.449       1220.472      0        ""                                                                                                        
+H1         M2               TopLayer HEX-2.2mm                       1531.496      1220.472      0        ""                                                                                                        
+Y1         "Crystal 4 Pins" TopLayer CRYSTAL_ABM8G                   698.102       973.197       0        Crystal                                                                                                   
+U3         TLV75733PDYDR    TopLayer SOT25-EPAD                      455.394       210.000       0        ""                                                                                                        
+U2         TLV75518PDBVR    TopLayer SOT25                           206.772       208.937       0        ""                                                                                                        
+U1         DS90UB954TRGZRQ1 TopLayer QFN50P700X700X100-48N-EP410x410 751.968       535.000       270      "Dual 2 MP FPD-Link III deserializer with CSI-2 outputs for 2MP/60fps cameras & radar 48-VQFN -40 to 105" 
+TP3        ""               TopLayer Testpoint_50                    503.888       367.433       90       "Test Point"                                                                                              
+TP2        ""               TopLayer Testpoint_50                    255.905       362.205       90       "Test Point"                                                                                              
+TP1        ""               TopLayer Testpoint_50                    90.551        299.213       90       "Test Point"                                                                                              
+R17        4.02k            TopLayer RES_C_1608X60                   1107.520      1185.000      180      RES                                                                                                       
+R16        0R               TopLayer RES_C_1608X60                   1462.520      965.000       270      RES                                                                                                       
+R15        10k              TopLayer RES_C_1608X60                   375.394       110.000       0        RES                                                                                                       
+R14        49.9R            TopLayer RES_C_1608X60                   1129.921      559.055       0        RES                                                                                                       
+R13        0R               TopLayer RES_C_1608X60                   736.221       807.087       270      RES                                                                                                       
+R12        DNP/0R           TopLayer RES_C_1608X60                   681.102       807.087       270      RES                                                                                                       
+R11        0R               TopLayer RES_C_1608X60                   1127.520      750.000       180      RES                                                                                                       
+R10        DNP/0R           TopLayer RES_C_1608X60                   1127.520      805.000       180      RES                                                                                                       
+R9         0R               TopLayer RES_C_1608X60                   877.520       970.000       90       RES                                                                                                       
+R8         DNP/4.7k         TopLayer RES_C_1608X60                   1003.937      807.087       270      RES                                                                                                       
+R7         DNP/4.7k         TopLayer RES_C_1608X60                   948.819       807.087       270      RES                                                                                                       
+R6         10k              TopLayer RES_C_1608X60                   121.772       108.937       0        RES                                                                                                       
+R5         10k              TopLayer RES_C_1608X60                   692.520       130.000       90       RES                                                                                                       
+R4         97.6k            TopLayer RES_C_1608X60                   933.071       279.528       90       RES                                                                                                       
+R3         10k              TopLayer RES_C_1608X60                   857.520       130.000       90       RES                                                                                                       
+R2         78.7k            TopLayer RES_C_1608X60                   1043.307      279.528       270      RES                                                                                                       
+R1         DNP/0R           TopLayer RES_C_1608X60                   967.520       130.000       270      RES                                                                                                       
+L1         10uH             TopLayer IND300X300X150                  1118.110      1062.992      0        ""                                                                                                        
+J2         RFPC-SMA28-F     TopLayer GRADCONN_RFPC-SMA28-F           1462.520      505.000       0        "SMA Connector Jack, Female Socket 50 Ohms Panel Mount, Through Hole Solder"                              
+J1         0532611171       TopLayer MOLEX_0532611171                209.921       850.000       270      ""                                                                                                        
+FB3        47R@100MHz       TopLayer IND_C_1608X60                   1462.520      745.000       90       "FERRITE BEAD 600 OHM 0603 1LN"                                                                           
+FB2        330R@100MHz      TopLayer IND_C_1608X60                   1462.520      855.000       90       "FERRITE BEAD 600 OHM 0603 1LN"                                                                           
+FB1        1k@100MHz        TopLayer IND_C_1608X60                   852.520       1185.000      0        "FERRITE BEAD 600 OHM 0603 1LN"                                                                           
+C36        0.1uF/10V        TopLayer CAP_C_1608X80                   942.520       1155.000      90       CAP                                                                                                       
+C35        0.1uF/10V        TopLayer CAP_C_1608X80                   762.520       1155.000      90       CAP                                                                                                       
+C34        10uF/10V         TopLayer CAP_C_1608X80                   997.520       1155.000      90       "CAP High Value"                                                                                          
+C33        10uF/10V         TopLayer CAP_C_1608X80                   707.520       1155.000      90       "CAP High Value"                                                                                          
+C32        10uF/10V         TopLayer CAP_C_1608X80                   472.441       314.961       0        "CAP High Value"                                                                                          
+C31        10uF/10V         TopLayer CAP_C_1608X80                   345.394       210.000       90       "CAP High Value"                                                                                          
+C30        10uF/10V         TopLayer CAP_C_1608X80                   637.520       130.000       90       "CAP High Value"                                                                                          
+C29        27pF/10V         TopLayer CAP_C_1608X80                   572.520       965.000       90       CAP                                                                                                       
+C28        27pF/10V         TopLayer CAP_C_1608X80                   822.520       970.000       270      CAP                                                                                                       
+C27        0.015uF/10V      TopLayer CAP_C_1608X80                   1019.685      559.055       180      CAP                                                                                                       
+C26        0.033uF/10V      TopLayer CAP_C_1608X80                   1019.685      503.937       180      CAP                                                                                                       
+C25        10uF/10V         TopLayer CAP_C_1608X80                   224.409       314.961       0        "CAP High Value"                                                                                          
+C24        10uF/10V         TopLayer CAP_C_1608X80                   91.772        208.937       90       "CAP High Value"                                                                                          
+C23        10uF/10V         TopLayer CAP_C_1608X80                   582.520       130.000       90       "CAP High Value"                                                                                          
+C22        0.1uF/10V        TopLayer CAP_C_1608X80                   988.189       279.528       90       CAP                                                                                                       
+C21        0.1uF/10V        TopLayer CAP_C_1608X80                   912.520       130.000       90       CAP                                                                                                       
+C20        0.1uF/10V        TopLayer CAP_C_1608X80                   590.551       279.528       90       CAP                                                                                                       
+C19        0.1uF/10V        TopLayer CAP_C_1608X80                   570.866       807.087       270      CAP                                                                                                       
+C18        10uF/10V         TopLayer CAP_C_1608X80                   625.984       807.087       270      "CAP High Value"                                                                                          
+C17        0.1uF/10V        TopLayer CAP_C_1608X80                   1012.520      400.000       180      CAP                                                                                                       
+C16        0.1uF/10V        TopLayer CAP_C_1608X80                   732.284       279.528       90       CAP                                                                                                       
+C15        10uF/10V         TopLayer CAP_C_1608X80                   677.165       279.528       90       "CAP High Value"                                                                                          
+C14        0.1uF/10V        TopLayer CAP_C_1608X80                   464.567       437.008       0        CAP                                                                                                       
+C13        0.1uF/10V        TopLayer CAP_C_1608X80                   838.583       807.087       270      CAP                                                                                                       
+C12        10uF/10V         TopLayer CAP_C_1608X80                   464.567       492.126       0        "CAP High Value"                                                                                          
+C11        10uF/10V         TopLayer CAP_C_1608X80                   893.701       807.087       270      "CAP High Value"                                                                                          
+C10        0.1uF/10V        TopLayer CAP_C_1608X80                   464.567       547.244       0        CAP                                                                                                       
+C9         0.1uF/10V        TopLayer CAP_C_1608X80                   464.567       602.362       0        CAP                                                                                                       
+C8         10uF/10V         TopLayer CAP_C_1608X80                   464.567       657.480       0        "CAP High Value"                                                                                          
+C7         0.1uF/10V        TopLayer CAP_C_1608X80                   1019.685      637.795       0        CAP                                                                                                       
+C6         0.1uF/10V        TopLayer CAP_C_1608X80                   747.520       130.000       90       CAP                                                                                                       
+C5         10uF/10V         TopLayer CAP_C_1608X80                   1129.921      637.795       180      "CAP High Value"                                                                                          
+C4         10uF/10V         TopLayer CAP_C_1608X80                   802.520       130.000       90       "CAP High Value"                                                                                          
+C3         0.1uF/10V        TopLayer CAP_C_1608X80                   1129.921      692.913       180      CAP                                                                                                       
+C2         0.1uF/10V        TopLayer CAP_C_1608X80                   877.953       279.528       90       CAP                                                                                                       
+C1         10uF/10V         TopLayer CAP_C_1608X80                   822.835       279.528       90       "CAP High Value"                                                                                          

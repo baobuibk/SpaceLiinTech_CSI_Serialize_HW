@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [Serializer_V10.PrjPcb]
+   Generated File[Serilizer_V10.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:17:37 AM On 11/3/2026

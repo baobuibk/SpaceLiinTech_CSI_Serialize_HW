@@ -1,0 +1,68 @@
+Altium Designer Pick and Place Locations
+D:\1_AltiumProject\30_CSI_Serialize\SpaceLiinTech_CSI_Serialize_HW\1_Serializer\01_DESIGN\Project Outputs for Serializer_V10\Pick Place for Serilizer_V10.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/11/26
+Time:       08:22
+Revision:   e3949f1b20f77d5be7494fe298dd37c4cffb031a
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"H2","M2","TopLayer","HEX-2.2mm","98.425","106.299","0",""
+"H4","M2","TopLayer","HEX-2.2mm","964.567","106.299","0",""
+"H3","M2","TopLayer","HEX-2.2mm","98.425","1051.181","0",""
+"H1","M2","TopLayer","HEX-2.2mm","964.567","1051.181","0",""
+"R2","10k","TopLayer","RES_C_1608X60","472.441","295.276","180","RES"
+"U3","DNP/TLV75733PDYDR","TopLayer","SOT25-EPAD","253.445","299.213","0",""
+"U1","DS90UB953TRHBTQ1","TopLayer","QFN-32_5X5_EP3.7X3.7","677.165","389.764","180","2 MP MIPI® CSI-2 FPD-Link III serializer for 2MP/60fps cameras & radar 32-VQFN -40 to 105"
+"J1","RFPC-SMA28-F","TopLayer","GRADCONN_RFPC-SMA28-F","647.638","933.071","270","SMA Connector Jack, Female Socket 50 Ohms Panel Mount, Through Hole Solder"
+"U2","TLV75518PDBVR","TopLayer","SOT25","254.567","507.913","0",""
+"TP4","","TopLayer","Testpoint_TH_D130H80","374.016","385.827","90","Test Point"
+"TP3","","TopLayer","Testpoint_50","354.331","334.646","90","Test Point"
+"TP2","","TopLayer","Testpoint_50","370.079","645.669","90","Test Point"
+"TP1","","TopLayer","Testpoint_50","181.102","586.614","90","Test Point"
+"R12","49.9R","TopLayer","RES_C_1608X60","791.339","716.535","0","RES"
+"R11","4.02k","TopLayer","RES_C_1608X60","275.591","775.591","270","RES"
+"R10","0R","TopLayer","RES_C_1608X60","196.850","933.071","0","RES"
+"R9","10k","TopLayer","RES_C_1608X60","86.614","303.150","90","RES-Chip"
+"R8","DNP/4.7k","TopLayer","RES_C_1608X60","448.819","125.984","90","RES"
+"R7","DNP/4.7k","TopLayer","RES_C_1608X60","503.937","125.984","90","RES"
+"R6","102k","TopLayer","RES_C_1608X60","472.441","417.323","0","RES"
+"R5","82.5k","TopLayer","RES_C_1608X60","472.441","472.441","180","RES"
+"R4","10k","TopLayer","RES_C_1608X60","86.614","507.874","270","RES"
+"R3","10k","TopLayer","RES_C_1608X60","972.441","488.189","180","RES"
+"R1","DNP/0R","TopLayer","RES_C_1608X60","472.441","350.394","0","RES"
+"L1","10uH","TopLayer","IND300X300X150","157.480","775.591","90",""
+"J2","0532611171","TopLayer","MOLEX_0532611171","1143.701","559.055","90",""
+"FB2","47R@100MHz","TopLayer","IND_C_1608X60","421.260","933.071","180","FERRITE BEAD 600 OHM 0603 1LN"
+"FB1","330R@100MHz","TopLayer","IND_C_1608X60","307.087","933.071","180","FERRITE BEAD 600 OHM 0603 1LN"
+"C27","10uF/10V","TopLayer","CAP_C_1608X80","1000.000","574.803","270","CAP High Value"
+"C26","0.1uF/10V","TopLayer","CAP_C_1608X80","110.236","649.606","0","CAP"
+"C25","10uF/10V","TopLayer","CAP_C_1608X80","255.905","401.575","0","CAP High Value"
+"C24","10uF/10V","TopLayer","CAP_C_1608X80","141.732","303.150","90","CAP High Value"
+"C23","10uF/10V","TopLayer","CAP_C_1608X80","110.236","594.488","0","CAP High Value"
+"C22","0.015uF/10V","TopLayer","CAP_C_1608X80","704.725","688.976","90","CAP"
+"C21","0.033uF/10V","TopLayer","CAP_C_1608X80","647.638","688.976","90","CAP"
+"C20","10uF/10V","TopLayer","CAP_C_1608X80","944.882","574.803","270","CAP High Value"
+"C19","10uF/10V","TopLayer","CAP_C_1608X80","255.905","610.236","0","CAP High Value"
+"C18","10uF/10V","TopLayer","CAP_C_1608X80","141.732","507.874","90","CAP High Value"
+"C17","0.1uF/10V","TopLayer","CAP_C_1608X80","791.339","661.417","180","CAP"
+"C16","0.022uF/10V","TopLayer","CAP_C_1608X80","889.764","574.803","90","CAP"
+"C15","0.1uF/10V","TopLayer","CAP_C_1608X80","889.764","688.976","270","CAP"
+"C14","0.01uF/10V","TopLayer","CAP_C_1608X80","944.882","688.976","270","CAP"
+"C13","0.01uF/10V","TopLayer","CAP_C_1608X80","791.339","551.181","180","CAP"
+"C12","10uF/10V","TopLayer","CAP_C_1608X80","1000.000","688.976","270","CAP High Value"
+"C11","10uF/10V","TopLayer","CAP_C_1608X80","791.339","606.299","180","CAP High Value"
+"C10","0.1uF/10V","TopLayer","CAP_C_1608X80","480.315","688.976","270","CAP"
+"C9","0.01uF/10V","TopLayer","CAP_C_1608X80","535.433","688.976","270","CAP"
+"C8","0.01uF/10V","TopLayer","CAP_C_1608X80","472.441","527.559","0","CAP"
+"C7","10uF/10V","TopLayer","CAP_C_1608X80","590.551","688.976","270","CAP High Value"
+"C6","10uF/10V","TopLayer","CAP_C_1608X80","472.441","582.677","0","CAP High Value"
+"C5","0.1uF/10V","TopLayer","CAP_C_1608X80","779.528","125.984","90","CAP"
+"C4","0.01uF/10V","TopLayer","CAP_C_1608X80","724.409","125.984","90","CAP"
+"C3","0.01uF/10V","TopLayer","CAP_C_1608X80","614.173","125.984","90","CAP"
+"C2","10uF/10V","TopLayer","CAP_C_1608X80","669.291","125.984","90","CAP High Value"
+"C1","10uF/10V","TopLayer","CAP_C_1608X80","559.055","125.984","90","CAP High Value"

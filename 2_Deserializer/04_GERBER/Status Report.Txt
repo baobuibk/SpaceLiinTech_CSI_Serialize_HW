@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [Deserializer_V10.PrjPcb]
+   Generated File[Deserializer_V10.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:24:22 AM On 11/3/2026
